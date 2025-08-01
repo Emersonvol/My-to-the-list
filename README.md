@@ -1,12 +1,32 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Minha To-Do List (React)
 
-Currently, two official plugins are available:
+## Descrição
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Projeto simples de uma aplicação de lista de tarefas (To-Do List) criada em **React** utilizando **hooks** (`useState`). O objetivo é praticar os conceitos fundamentais do React, como o gerenciamento de estado, manipulação de eventos, renderização dinâmica de listas e interação com o usuário.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Funcionalidades
+
+- Adicionar novas tarefas à lista.
+- Visualizar tarefas adicionadas em tempo real.
+- Limpar toda a lista de tarefas.
+- Validação para não adicionar tarefas vazias (apenas espaços).
+- Controle de estado do input para manter a interface sincronizada.
+
+---
+
+## Tecnologias utilizadas
+
+- React (Functional Components + Hooks)
+- HTML5 e CSS3 para estrutura e estilos básicos
+- JavaScript ES6+
+
+---
+
+
+
+
+   
